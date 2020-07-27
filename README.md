@@ -93,4 +93,11 @@ The output is a CSV with these column headers.
 "Lender"
 "CD"
 "LoanRange"
-"averageLoanRange"</pre>
+"average_loan_range"</pre>
+
+
+## Other projects
+There are many people dedicated to understanding this data.  Some of the more notably open source projects include:
+
+
+

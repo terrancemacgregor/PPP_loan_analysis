@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c149be48-e402-4275-b647-f05275562535" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PPP_loan_analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tmac.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_files/2017_NAICS_Structure.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_files/foia_150k_plus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_files/20200727-081926_query_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_files/20200727-082007_query_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_files/20200727-082800_query_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_files/20200727-083005_query_results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ppp_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/ppp_analysis.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1eNTokObyymSoBChcStDkjBoi4W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input_files" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Just Company Name">
+    <configuration name="Everything - All At Once" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-v -state md ct dc -name Johnson -naics_code 541330" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Just Company Name" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-name johnson" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Just Maryland" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-state MD -v" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Naics Search Term - Multiple Words" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-naics_human programming software technical" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Naics Search Term -Single Word" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-naics_human programming" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Naics Single Code With State" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-naics_code 541511 -state MD" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Naics Single Code" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-naics_code 541511" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="State and Name" type="PythonConfigurationType" factoryName="Python">
+      <module name="parse_ppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/parse_ppp/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppp_analysis.py" />
+      <option name="PARAMETERS" value="-state md -name johnson" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Just Company Name" />
+      <item itemvalue="Python.State and Name" />
+      <item itemvalue="Python.Naics Single Code" />
+      <item itemvalue="Python.Naics Single Code With State" />
+      <item itemvalue="Python.Naics Search Term -Single Word" />
+      <item itemvalue="Python.Naics Search Term - Multiple Words" />
+      <item itemvalue="Python.Everything - All At Once" />
+      <item itemvalue="Python.Just Maryland" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Just Maryland" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c149be48-e402-4275-b647-f05275562535" name="Default Changelist" comment="" />
+      <created>1594161228112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594161228112</updated>
+      <workItem from="1594161231186" duration="6937000" />
+      <workItem from="1594169457560" duration="15862000" />
+      <workItem from="1594308930582" duration="5153000" />
+      <workItem from="1595672885712" duration="7223000" />
+      <workItem from="1595847814248" duration="5489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="259" width="800" height="717" key="#Intentions" timestamp="1595853585967">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="399" y="259" width="800" height="717" key="#Intentions/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595853585967" />
+    <state x="548" y="297" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595848096505">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="146" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1594598546270" />
+    <state x="548" y="297" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595848096505" />
+    <state x="745" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595850001057">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="745" y="277" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595850001057" />
+    <state x="756" y="385" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595852412064">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="756" y="385" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595852412064" />
+    <state x="219" y="171" width="1523" height="788" key="DiffContextDialog" timestamp="1595681778632">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="219" y="171" width="1523" height="788" key="DiffContextDialog/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595681778632" />
+    <state width="1700" height="234" key="GridCell.Tab.0.bottom" timestamp="1595852999980">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1256" height="244" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1594598805322" />
+    <state width="1700" height="234" key="GridCell.Tab.0.bottom/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595852999980" />
+    <state width="1700" height="234" key="GridCell.Tab.0.center" timestamp="1595852999979">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1256" height="244" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1594598805320" />
+    <state width="1700" height="234" key="GridCell.Tab.0.center/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595852999979" />
+    <state width="1700" height="234" key="GridCell.Tab.0.left" timestamp="1595852999978">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1256" height="244" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1594598805319" />
+    <state width="1700" height="234" key="GridCell.Tab.0.left/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595852999978" />
+    <state width="1700" height="234" key="GridCell.Tab.0.right" timestamp="1595852999980">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1256" height="244" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1594598805321" />
+    <state width="1700" height="234" key="GridCell.Tab.0.right/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595852999980" />
+    <state width="1481" height="335" key="GridCell.Tab.1.bottom" timestamp="1594169213923">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1481" height="335" key="GridCell.Tab.1.bottom/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1594169213923" />
+    <state width="1481" height="335" key="GridCell.Tab.1.center" timestamp="1594169213922">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1481" height="335" key="GridCell.Tab.1.center/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1594169213922" />
+    <state width="1481" height="335" key="GridCell.Tab.1.left" timestamp="1594169213921">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1481" height="335" key="GridCell.Tab.1.left/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1594169213921" />
+    <state width="1481" height="335" key="GridCell.Tab.1.right" timestamp="1594169213922">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state width="1481" height="335" key="GridCell.Tab.1.right/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1594169213922" />
+    <state x="64" y="23" key="SettingsEditor" timestamp="1595849958532">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="64" y="23" key="SettingsEditor/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595849958532" />
+    <state x="432" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594163882770">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="432" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1594163882770" />
+    <state x="746" y="149" width="984" height="735" key="find.popup" timestamp="1595848057861">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="746" y="149" width="984" height="735" key="find.popup/1920.203.1440.877/0.23.1920.1001@0.23.1920.1001" timestamp="1595848057861" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$Naics_Search_Term___Multiple_Words.coverage" NAME="Naics Search Term - Multiple Words Coverage Results" MODIFIED="1594598241145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$Naics_Search_Term__Single_Word.coverage" NAME="Naics Search Term -Single Word Coverage Results" MODIFIED="1594598183959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parse_ppp$ppp_reader.coverage" NAME="ppp_reader Coverage Results" MODIFIED="1594168254717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$Just_Company_Name.coverage" NAME="Just Company Name Coverage Results" MODIFIED="1595852999970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$ppp_analysis_by_state.coverage" NAME="ppp_analysis_by_state Coverage Results" MODIFIED="1594597699044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$Naics_Single_Code_With_State.coverage" NAME="Naics Single Code With State Coverage Results" MODIFIED="1594598075481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$Everything___All_At_Once.coverage" NAME="Everything - All At Once Coverage Results" MODIFIED="1595680861108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PPP_loan_analysis$Naics_Single_Code.coverage" NAME="Naics Single Code Coverage Results" MODIFIED="1594597887872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
